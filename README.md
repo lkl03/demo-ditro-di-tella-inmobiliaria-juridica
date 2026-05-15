@@ -1,2 +1,7 @@
-# demo-ditro-di-tella-inmobiliaria-juridica
-Demo web para Ditro Di Tella Inmobiliaria Jurídica — diseñada por eterlab.
+# Ditro Di Tella Inmobiliaria Jurídica
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
